@@ -1,13 +1,15 @@
 {
-  "main.css": "/personal-site/static/css/main.05f12606.chunk.css",
-  "main.js": "/personal-site/static/js/main.1fd24dba.chunk.js",
-  "main.js.map": "/personal-site/static/js/main.1fd24dba.chunk.js.map",
+  "main.css": "/personal-site/static/css/main.cdf20a65.chunk.css",
+  "main.js": "/personal-site/static/js/main.962518e4.chunk.js",
+  "main.js.map": "/personal-site/static/js/main.962518e4.chunk.js.map",
   "static/js/1.f03e8ae8.chunk.js": "/personal-site/static/js/1.f03e8ae8.chunk.js",
   "static/js/1.f03e8ae8.chunk.js.map": "/personal-site/static/js/1.f03e8ae8.chunk.js.map",
   "runtime~main.js": "/personal-site/static/js/runtime~main.60ebdd6b.js",
   "runtime~main.js.map": "/personal-site/static/js/runtime~main.60ebdd6b.js.map",
-  "static/css/main.05f12606.chunk.css.map": "/personal-site/static/css/main.05f12606.chunk.css.map",
+  "static/media/default.css": "/personal-site/static/media/librebaskerville-italic-webfont.8825a887.svg",
+  "static/media/layout.css": "/personal-site/static/media/header-background.083cbb49.jpg",
+  "static/css/main.cdf20a65.chunk.css.map": "/personal-site/static/css/main.cdf20a65.chunk.css.map",
   "index.html": "/personal-site/index.html",
-  "precache-manifest.8fd56d22eba3846fc97bdf4d74133b2b.js": "/personal-site/precache-manifest.8fd56d22eba3846fc97bdf4d74133b2b.js",
+  "precache-manifest.c123ade8a61dccfaea4532eabef08554.js": "/personal-site/precache-manifest.c123ade8a61dccfaea4532eabef08554.js",
   "service-worker.js": "/personal-site/service-worker.js"
 }
