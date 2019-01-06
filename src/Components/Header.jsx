@@ -1,4 +1,8 @@
 import React, {Component} from 'react';
+import './css/default.css';
+import './css/layout.css';
+import './css/media-queries.css';
+import './css/magnific-popup.css';
 
 export default class Header extends Component{
     render(){
@@ -29,7 +33,7 @@ export default class Header extends Component{
 
               <div className="row banner">
                  <div className="banner-text">
-                    <h1 className="responsive-headline">I'm {name}.</h1>
+                    <h1 className="responsive-headline">Hi. I'm {name}.</h1>
                     <h3><span>{currentRole}</span>. {description}.</h3>
                     <hr />
                     <ul className="social">
